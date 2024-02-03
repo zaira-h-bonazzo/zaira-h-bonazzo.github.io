@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>About Me</title>
+	</head>
+	<body>
+		<div class="container">
+			<div class="header">
+				<h1>About Me</h1>
+			</div><!-- end header-->
+			<div class="intro column">
+				<h2>Zaira Bonazzo</h2>
+				<p>
+					DevOps
+				</p>
+			</div><!-- end intro-->
+			<div>
+				<h3>Contact me</h3>
+				<ul>
+					<li>zaira dot h dot bonazzo at gmail dot com</li>
+          <li>+54 11 5387 4173</li>
+          <li>Corrientes 615</li>
+				</ul>
+			</div>
+	</body>
+</html>
